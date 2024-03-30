@@ -169,7 +169,7 @@ label
 
 .image-v1
 {
-	background: url(../img/background_v1.jpg) center center no-repeat;
+	background: url(../talentoactivo/enfondorosado.png) center center no-repeat;
 	-moz-background-size: cover;
 	background-size: cover}
 
@@ -3574,7 +3574,7 @@ a.btn-more:hover:after
 	color: #fff;
 	margin: 10px 0;
 	font-size: 22px;
-	text-transform: capitalize;
+text-transform: capitalize;
 	font-weight: bold}
 
 
@@ -3774,11 +3774,6 @@ a.btn-more:hover:after
 .footer-sub a:hover
 {
 	text-decoration: underline}
-
-
-.copyright a
-{
-}
 
 
 @media (max-width:979px)
@@ -6190,10 +6185,6 @@ ul#portfolio .no-padd img
 	color: #fff!important}
 
 
-.pricing-tables.style2
-{
-
-}
 
 
 .pricing-tables.style2 .title
