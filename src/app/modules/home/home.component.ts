@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-
+  projects = 50;
+  hours = 1500;
+  support = 120;
+  coffe = 1550;
+  
 }
+
