@@ -5,6 +5,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { BannerComponent } from './banner/banner.component';
 import { RecentWorkComponent } from './recent-work/recent-work.component';
+import { WhoWeAreComponent } from './who-we-are/who-we-are.component';
 
 
 @NgModule({
@@ -13,6 +14,7 @@ import { RecentWorkComponent } from './recent-work/recent-work.component';
     FooterComponent,
     BannerComponent,
     RecentWorkComponent,
+    WhoWeAreComponent,
   ],
   imports: [
     CommonModule,
@@ -22,6 +24,8 @@ import { RecentWorkComponent } from './recent-work/recent-work.component';
     FooterComponent,
     RecentWorkComponent,
     BannerComponent,
+    WhoWeAreComponent,
+
   ]
 })
 export class SharedModule { }
